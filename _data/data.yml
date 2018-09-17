@@ -90,31 +90,43 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      My personal projects & Team projects during university
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Python Chatting Program
+        link: "https://github.com/Cafemug/chat"
+        tagline: "Chatting Program using Socket I/O , Threading is used for sending and receiving"
 
-      - title: DevStudio
+      - title: PHP Community Website
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Community Website using PHP"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: C++ Run Shortcut Program
+        link: "https://github.com/Cafemug/Winapi"
+        tagline: "It is a program that finds and executes only the .lnk file in the set path"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Introducing Cafe in Company - Web solution
+        link: "https://github.com/MadisIT-Project"
+        tagline: "In MidasIT Hackathon , Making Web solution Introducing Cafe in Company"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Detecting smoke - Web solution
+        link: "https://github.com/NamYang-MinusZ"
+        tagline: "In NamYang Hackathon , Making Web solution Detecting smoke"
 
+      - title: Introducing welfare for youth - Android app & api server
+        link: "https://github.com/OpenHackTeam9/server"
+        tagline: "In Opensource Hackathon in Korea , Making Android app & api server introducing welfare for youth "
+
+      - title: Taking pictures at drama attarctions - Android app & api server & deep learning
+        link: "https://github.com/OpenHackTeam9/PickD_server"
+        tagline: "In Opensource Hackathon in China , Making Android app & api server & deep learning Taking pictures at drama attarctions "
+      
+     
+
+   
+
+
+      
 publications:
     title: Publications
     intro: |
@@ -139,22 +151,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python & Flask
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: C++
         level: 98%
 
-      - name: Angular
+      - name: Linux
         level: 98%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 88%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Javascript & Nodejs
+        level: 88%
 
-      - name: Sketch & Photoshop
+      - name: Java
         level: 60%
 
 footer: >
