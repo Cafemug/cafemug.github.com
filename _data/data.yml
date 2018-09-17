@@ -34,15 +34,24 @@ sidebar:
         link:
 
 award:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+    title: Awards
+    - name: Software Engineering Intern
+      time: 2018 - Present
+      location: Xsinc , Seoul
+      details: |
+        - ReadyDisk라는 Diskless solution을 리팩토링을 통해 버전 업
+    
+    - name: Software Engineering Intern
+      time: 2018 - Present
+      location: Xsinc , Seoul
+      details: |
+        - ReadyDisk라는 Diskless solution을 리팩토링을 통해 버전 업
 
-      Second paragraph if required.
+    - name: Software Engineering Intern
+      time: 2018 - Present
+      location: Xsinc , Seoul
+      details: |
+        - ReadyDisk라는 Diskless solution을 리팩토링을 통해 버전 업
 
 education:
     - degree: Computer Science

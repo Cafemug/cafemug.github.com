@@ -10,9 +10,29 @@
     {{ award.title }}
   </h2>
 
-  <div class="summary">
-    {{ award.summary | markdownify }}
-  </div><!--//summary-->
+  {% for award_data in award %}
+  <div class="item">
+
+    <div class="meta">
+
+      <div class="upper-row">
+        <h3 class="job-title">{{ award_data.name }}</h3>
+        <div class="time">{{ award_data.time }}</div>
+      </div><!--//upper-row-->
+
+      <div class="company">{{ award_data.location }}</div>
+
+    </div><!--//meta-->
+
+    {% if award_data.details %}
+    <div class="details">
+      {{ award_data.details | markdownify }}
+    </div><!--//details-->
+    {% endif %}
+
+  </div><!--//item-->
+  {% endfor %}
+
     
 </section><!--//section-->
 {% endif %}
