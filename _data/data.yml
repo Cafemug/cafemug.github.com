@@ -34,24 +34,29 @@ sidebar:
         link:
 
 award:
-    title: Awards
-    - name: Software Engineering Intern
-      time: 2018 - Present
-      location: Xsinc , Seoul
+    - name: HECP Coding Competition 2nd Award
+      time: 2018 May
+      location: Ansan / Hanyang University ERICA Campus
       details: |
-        - ReadyDisk라는 Diskless solution을 리팩토링을 통해 버전 업
+        - Algorithm Competition
     
-    - name: Software Engineering Intern
-      time: 2018 - Present
-      location: Xsinc , Seoul
+    - name: Midas Hackathon 2nd Award
+      time: 2018 May
+      location: MidasIT / Pangyo
       details: |
-        - ReadyDisk라는 Diskless solution을 리팩토링을 통해 버전 업
+        - introducing Cafe in Company - Web solution 
 
-    - name: Software Engineering Intern
-      time: 2018 - Present
-      location: Xsinc , Seoul
+    - name: Opensource Hackathon in Korea 3rd Award
+      time: 2018 June
+      location: SW중심대학 / Gongju
       details: |
-        - ReadyDisk라는 Diskless solution을 리팩토링을 통해 버전 업
+        - introducing welfare for youth - Android app & api server
+   
+    - name: Opensource Hackathon in China 2nd Award
+      time: 2018 August
+      location: SW중심대학 & 루가오 시 / China
+      details: |
+        - Taking pictures at drama attarctions - Android app & api server & deep learning
 
 education:
     - degree: Computer Science
