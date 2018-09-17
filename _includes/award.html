@@ -11,6 +11,7 @@
   </h2>
 
   {% for award_data in award %}
+  
   <div class="item">
 
     <div class="meta">
@@ -19,7 +20,7 @@
         <h3 class="job-title">{{ award_data.name }}</h3>
         <div class="time">{{ award_data.time }}</div>
       </div><!--//upper-row-->
-
+      
       <div class="company">{{ award_data.location }}</div>
 
     </div><!--//meta-->
@@ -31,6 +32,7 @@
     {% endif %}
 
   </div><!--//item-->
+  <br/>
   {% endfor %}
 
     
