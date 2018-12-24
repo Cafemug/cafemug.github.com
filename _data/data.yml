@@ -40,7 +40,6 @@ award:
       details: |
         - Algorithm Competition
 
-    
     - name: Midas Hackathon 2nd Award
       time: 2018 May
       location: MidasIT / Pangyo
@@ -59,6 +58,18 @@ award:
       details: |
         - Taking pictures at drama attarctions - Android app & api server & deep learning
 
+    - name: 2018 Big BioMedical Data Hackathon 2nd Award
+      time: 2018 December
+      location: 서울의대 / Seoul
+      details: |
+        - User-friendly prescription sharing service - Mobile web view & api server & blockchain
+
+    - name: 2018 Whale Extension App Contest 1st Award
+      time: 2018 December
+      location: Naver Green Factory
+      details: |
+        - An extension App for quick search, including translations, notes, and searches in pdf - React, Jquery & PHP
+
 education:
     - degree: Computer Science
       university: Hanyang University ERICA Campus
@@ -74,11 +85,17 @@ education:
 experiences:
     
     - role: Software Engineering Intern
-      time: 2018 - Present
+      time: 2018.07.02 - 2018.12.31
       company: Xsinc , Seoul
       details: |
         - ReadyDisk라는 Diskless solution을 리팩토링을 통해 버전 업
          
+    - role: Software Engineering Intern
+      time: 2019.01.02 - 2019.02.26
+      company: LINE Biz Plus , Pangyo
+      details: |
+        - 예정
+
 
     - role: Co-founder at Mait
       time: 2018 - Present
@@ -115,12 +132,19 @@ projects:
 
       - title: Introducing welfare for youth - Android app & api server
         link: "https://github.com/OpenHackTeam9/server"
-        tagline: "In Opensource Hackathon in Korea , Making Android app & api server introducing welfare for youth "
+        tagline: "In Opensource Hackathon in Korea , Making Android app & api server for introducing welfare for youth "
 
       - title: Taking pictures at drama attarctions - Android app & api server & deep learning
         link: "https://github.com/OpenHackTeam9/PickD_server"
-        tagline: "In Opensource Hackathon in China , Making Android app & api server & deep learning Taking pictures at drama attarctions "
+        tagline: "In Opensource Hackathon in China , Making Android app & api server & deep learning for Taking pictures at drama attarctions "
       
+      - title: User-friendly prescription sharing service - Mobile web view & api server & blockchain
+        link: "https://github.com/2018-BigBio-MedicalData-Hackathon"
+        tagline: "In 2018 Big BioMedical Data Hackathon , Making Mobile web view & api server & blockchain for User-friendly prescription sharing service"
+
+      - title: An extension App for quick search, including translations, notes, and searches in pdf - React, Jquery & PHP
+        link: "https://github.com/Whale-Extension-App-PDFasT"
+        tagline: "During one month, Making An extension App for quick search, including translations, notes, and searches in pdf with React, Jquery & PHP"
      
 
    
