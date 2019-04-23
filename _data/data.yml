@@ -94,7 +94,8 @@ experiences:
       time: 2019.01.02 - 2019.02.26
       company: LINE Biz Plus , Pangyo
       details: |
-        - 예정
+        - 대용량 데이터를 수집과 저장 후 가공하여 웹에 보여주는 프로젝트
+          kafka, scala, spark, hbase 및 hadoop 사용
 
 
     - role: Co-founder at Mait
