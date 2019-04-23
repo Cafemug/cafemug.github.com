@@ -1,0 +1,40 @@
+{% assign Certification = site.data.data.Certification %}
+{% if Certification %}
+<section class="section summary-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-certificate fa-stack-1x fa-inverse"></i>
+    </span>
+    Certifications
+  </h2>
+
+  {% for Certification_data in Certification %}
+  
+  <div class="item">
+
+    <div class="meta">
+
+      <div class="upper-row">
+        <h3 class="job-title">{{ Certification_data.name }}</h3>
+        <div class="time">{{ Certification_data.time }}</div>
+      </div><!--//upper-row-->
+      
+      <div class="company">{{ Certification_data.location }}</div>
+
+    </div><!--//meta-->
+
+    {% if Certification_data.details %}
+    <div class="details">
+      {{ Certification_data.details | markdownify }}
+    </div><!--//details-->
+    {% endif %}
+
+  </div><!--//item-->
+  <br/>
+  {% endfor %}
+
+    
+</section><!--//section-->
+{% endif %}

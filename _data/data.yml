@@ -151,16 +151,17 @@ projects:
    
 Certification:
     
-    - title: Software Engineering Intern
-      time: 2018.07.02 - 2018.12.31
+    - title: Launcing into Machine Learning
+      time: 2019 April
+      location: Coursera 
       details: |
-        - ReadyDisk라는 Diskless solution을 리팩토링을 통해 버전 업
+        - Google Machine Learning study jam
          
-    - title: Software Engineering Intern
-      time: 2019.01.02 - 2019.02.26
+    - title: Getting Started with Google Kubernetes Engine
+      time: 2019 Match
+      location: Coursera
       details: |
-        - 대용량 데이터를 수집과 저장 후 가공하여 웹에 보여주는 프로젝트
-          kafka, scala, spark, hbase 및 hadoop 사용
+        - Google Cloud study jam
 
 
       
