@@ -97,6 +97,12 @@ experiences:
         - 대용량 데이터를 수집과 저장 후 가공하여 웹에 보여주는 프로젝트
           kafka, scala, spark, hbase 및 hadoop 사용
 
+  - role: Software Engineering Intern
+      time: 2019.07.01 - 2019.08.30
+      company: Linewalks , Gangnam
+      details: |
+        - 병원 데이터 베이스에서 원하는 데이터를 추출하여 End table을 만들고
+        이상사례분석이나 추출 스크립트를 만들어 데이터 제공하는 API구축
 
     - role: Co-founder at Mait
       time: 2018 - Present
