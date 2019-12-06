@@ -69,6 +69,12 @@ award:
       location: Naver Green Factory
       details: |
         - An extension App for quick search, including translations, notes, and searches in pdf - React, Jquery & PHP
+    
+    - name: 2019 Open Infra Contest 1st Award
+      time: 2019 August
+      location: Mantech
+      details: |
+        - An sentiment & keyword Analysis in Youtube using Machine Learning
 
 education:
     - degree: Computer Science
