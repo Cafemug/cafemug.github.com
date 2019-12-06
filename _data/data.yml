@@ -117,6 +117,16 @@ projects:
       My personal projects & Team projects during university
 
     assignments:
+      - title: Scratch - introduce myself
+        link: "https://scratch.mit.edu/projects/334472704"
+        link: "https://youtu.be/prwEvdDOpDo"
+        tagline: "Using Scratch to introduce myself"
+
+      - title: Scratch - introduce my Computer
+        link: "https://scratch.mit.edu/projects/334472704"
+        link: "https://youtu.be/elHz1NBuRJc"
+        tagline: "Using Scratch to introduce my computer"
+
       - title: Python Chatting Program
         link: "https://github.com/Cafemug/chat"
         tagline: "Chatting Program using Socket I/O , Threading is used for sending and receiving"
