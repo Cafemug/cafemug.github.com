@@ -75,6 +75,12 @@ award:
       location: Mantech
       details: |
         - An sentiment & keyword Analysis in Youtube using Machine Learning
+        
+    - name: 2020 Naver Burning Day
+      time: 2020 February
+      location: Naver
+      details: |
+        - Extended app for blind people
 
 education:
     - degree: Computer Science
