@@ -116,11 +116,11 @@ experiences:
         - 병원 데이터 베이스에서 원하는 데이터를 추출하여 End table을 만들고
         이상사례분석이나 추출 스크립트를 만들어 데이터 제공하는 API구축
 
-    - role: Co-founder at Mait
-      time: 2018 - Present
-      company: Mait, Busan
+    - role: Software Engineering Backend Developer
+      time: 2020.09.07 - Present
+      company: Kakao enterprise, Pangyo
       details: |
-        - 3인으로 구성된 웹 솔루션 제작 스타트업
+        - 카카오워크 메세징 시스템 개발
         
 
 projects:
@@ -220,20 +220,17 @@ skills:
       - name: Python & Flask
         level: 98%
 
-      - name: C++
+      - name: Kotlin
+        level: 90%
+
+      - name: Kubenetes
         level: 98%
 
-      - name: Linux
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 88%
+      - name: Elixir
+        level: 90%
 
       - name: Javascript & Nodejs
-        level: 88%
-
-      - name: Java
-        level: 60%
+        level: 90%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
