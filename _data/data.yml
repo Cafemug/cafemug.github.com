@@ -190,6 +190,12 @@ Certification:
       location: Coursera
       details: |
         - Google Cloud study jam
+        
+   - title: Certified Kubernetes Administrator)
+      time: 2021 Feb
+      location: CNCF
+      details: |
+        - CKA(쿠버네티스 자격증)
 
 
       
