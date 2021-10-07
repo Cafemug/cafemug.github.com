@@ -86,7 +86,8 @@ education:
     - degree: Computer Science
       university: Hanyang University ERICA Campus
       time: 2014 - 2020
-      details: Graduated
+      details: |
+        - Graduated
         
 
     - degree: Graduated
@@ -191,7 +192,7 @@ Certification:
       details: |
         - Google Cloud study jam
         
-   - title: Certified Kubernetes Administrator)
+    - title: Certified Kubernetes Administrator)
       time: 2021 Feb
       location: CNCF
       details: |
